@@ -14,4 +14,5 @@ Daftar tugas / branch
 3. git add = Jalankan perintah berikut untuk menambahkan file ke staging area
 4. git commit -m "Pesan Commit" = Simpan perubahan dengan perintah ini dan memberi pesan commit
 5. git push origin "nama-branch" = Untuk mengunggah perubahan dari lokal GitHub
+
 Merge dilakukan langsung di Github melalui Pull Request
